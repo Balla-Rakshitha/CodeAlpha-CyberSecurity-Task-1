@@ -30,3 +30,6 @@ Understanding packet structure
 Basics of network monitoring
 
 Hands-on experience with Scapy
+
+Check out linkedin post of Network Sniffer:
+https://www.linkedin.com/posts/balla-rakshitha-761b27329_python-scapy-networking-activity-7434464313643515904-zGZN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLtKXkBPxi_Ut6aeFSfOFwRz4efHxC0EVg
